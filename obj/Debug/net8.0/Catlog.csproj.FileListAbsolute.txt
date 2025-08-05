@@ -301,4 +301,3 @@ C:\Users\Lenovo\source\repos\Catlog\Catlog\bin\Debug\net8.0\Catlog.dll
 C:\Users\Lenovo\source\repos\Catlog\Catlog\bin\Debug\net8.0\Catlog.pdb
 C:\Users\Lenovo\source\repos\Catlog\Catlog\obj\Debug\net8.0\Catlog.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\Catlog\Catlog\obj\Debug\net8.0\ref\Catlog.dll
-C:\Users\Lenovo\source\repos\Catlog\Catlog\obj\Debug\net8.0\Catlog.sourcelink.json
